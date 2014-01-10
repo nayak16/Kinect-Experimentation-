@@ -1,0 +1,29 @@
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\bin\Debug\DadTest.exe
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\bin\Debug\DadTest.pdb
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\App.g.cs
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest_MarkupCompile.cache
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest.g.resources
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest.Properties.Resources.resources
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest.csproj.GenerateResource.Cache
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest.exe
+C:\Users\Aatish Nayak\AppData\Local\Temporary Projects\DadTest\obj\x86\Debug\DadTest.pdb
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.exe
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.pdb
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\DadTest.exe
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\DadTest.pdb
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.csprojResolveAssemblyReference.cache
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\App.g.cs
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest_MarkupCompile.cache
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.g.resources
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.Properties.Resources.resources
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\obj\x86\Debug\DadTest.csproj.GenerateResource.Cache
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Aatish Nayak\documents\visual studio 2010\Projects\DadTest\DadTest\bin\Debug\Microsoft.Kinect.Toolkit.pdb
